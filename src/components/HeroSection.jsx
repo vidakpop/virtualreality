@@ -9,6 +9,13 @@ export const HeroSection = () => {
             {""} for developers
             </span>
             </h1>
+            <p className='mt-10 text-lg text-center text-neutral-500 max-w-4xl'>
+                Empower your creativity and bring your ideas to life with the power of VR with our build tools.Get started today and take your VR projects to the next level!
+
+            </p>
+            <div className="flex justify-center my-10">
+                
+            </div>
     </div>
   )
 }

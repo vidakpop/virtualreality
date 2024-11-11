@@ -45,7 +45,7 @@ const Footer = () => {
         <nav>
             <ul className='flex space-x-4'>
                 <li>
-                    <a className='text-neutral-300 hover:text-white' href='https://github.com/vidakpop'>Meet the Developer</a>
+                    <a className='text-neutral-300 hover:text-white' href='https://github.com/vidakpop'>About the Developer</a>
                 </li>
             </ul>
         </nav>

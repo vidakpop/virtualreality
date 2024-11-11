@@ -37,8 +37,10 @@ const Footer = () => {
             </div>
             
         </div>
-        <div className='bg-gray-900 py-4 mt-8'>
-    <div className='container mx-auto flex justify-between items-center'>
+       
+
+<div className='sticky top-0 z-50 py-3 backdrop-blur-lg border-b border-neutral-700/80 mt-8'>
+    <div className='container px-4 mx-auto flex justify-between items-center'>
         <span className='text-neutral-400'>&copy; 2024 CyberJiutsu</span>
         <nav>
             <ul className='flex space-x-4'>

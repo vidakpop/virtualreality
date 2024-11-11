@@ -37,6 +37,18 @@ const Footer = () => {
             </div>
             
         </div>
+        <div className='bg-gray-900 py-4 mt-8'>
+    <div className='container mx-auto flex justify-between items-center'>
+        <span className='text-neutral-400'>&copy; 2024 CyberJiutsu</span>
+        <nav>
+            <ul className='flex space-x-4'>
+                <li>
+                    <a className='text-neutral-300 hover:text-white' href='https://github.com/vidakpop'>Meet the Developer</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
     </footer>
   )
 }

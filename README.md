@@ -76,4 +76,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+<<<<<<< HEAD
 **CyberJiutsu** - A modern web application built with React and Vite.
+=======
+**CyberJiutsu** - A modern web application built with React and Vite.
+>>>>>>> e508f225ae5eee6d9d3fc53b566c4fc4093c904e
